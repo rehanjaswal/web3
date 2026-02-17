@@ -6,7 +6,7 @@ int main() {
 
     if (n == 0) cout << 0;
 
-    string binary = "";
+    string binary = "";   
 
     while (n > 0) {
         int remainder = n % 2;
