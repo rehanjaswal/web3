@@ -1,0 +1,11 @@
+# Ignore compiled C executables
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore editor and OS junk
+.vscode/
+.DS_Store
+Thumbs.db
